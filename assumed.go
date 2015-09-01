@@ -2,7 +2,9 @@
 
 package main
 
-main {
+import "fmt"
+
+func main {
 
 
 }
